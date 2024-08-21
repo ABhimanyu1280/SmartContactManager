@@ -1,0 +1,5 @@
+/*npx tailwindcss -i D:\projects\myprojectsjava\scm1\scm1\src\main\resources\static\css\input.css -o D:\projects\myprojectsjava\scm1\scm1\src\main\resources\static\css\output.css --watch */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
